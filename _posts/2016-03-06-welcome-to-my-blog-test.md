@@ -1,4 +1,17 @@
-﻿# 欢迎来到我的博客，作为第一篇博客，用作业部落测试下XD
+﻿---
+layout: post
+title:  "作为第一篇博客，用作业部落测试下XD"
+date:   2016-03-6 14:06:05
+categories: no-skill one-step
+excerpt: markdown html css 相关。
+---
+
+* content
+{:toc}
+
+
+
+# 欢迎来到我的博客，作为第一篇博客，用作业部落测试下XD
 
 
 ##欢迎使用 Cmd Markdown 编辑阅读器
