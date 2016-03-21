@@ -78,7 +78,7 @@ Email:[907399586@qq.com]()
  - [] 培养用Markdown写作的习惯
  - [ ]熟练使用Markdown规则
 
-![image](/storage/emulated/0/Pictures/Phonto/1458232806823.jpg)
+
 
 
 
