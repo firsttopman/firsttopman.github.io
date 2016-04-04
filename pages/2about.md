@@ -7,7 +7,7 @@ icon: glyphicon-heart
 
 ### 关于我
 
-> 土木专业却痴迷于计算机专业
+> 土木专业却痴迷于CS
 
 2015年毕业，爱生活，爱编程。
 
@@ -25,7 +25,7 @@ icon: glyphicon-heart
 
 ### 关于本站   
 
-本博客根据https://github.com/Gaohaoyang/gaohaoyang.github.io搭建
+技术小白，分享学习生活体会。不断学习，不断更新。
 
   
 
